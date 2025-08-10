@@ -1,0 +1,41 @@
+.banner{
+    background-image: url(avvv.jpg);
+    padding:150px 0px !important;
+    background-size: cover;
+}
+#footer{
+    background-color: rgb(6, 6, 6);
+    color:white;
+}
+
+/*contact form */
+
+.contact-form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(238, 94, 10, 0.1);
+}
+.contact-form h2 {
+    margin-top: 0;
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100% !important;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.contact-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.contact-form button:hover {
+    background-color: #0056b3;
+}
